@@ -1,0 +1,1 @@
+🚀 Exciting News! Introducing #OrangeLab 🍊🧪: Your go-to Python tool for image processing with OpenCV and synthetic dataset generation using Faker! Perfect for #DataScie #ImageProcessing, and more! 🌐 Explore on PyPI : https://pypi.org/project/OrangeLab/ | 🛠️ GitHub: https://github.com/NagiPragalathan/OrangeLab

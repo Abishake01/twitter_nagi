@@ -1,0 +1,3 @@
+Greetings everyone! We are excited to introduce our revolutionary NoCode application developed for the 
+@MOI_Tech
+ hackathon. Our creation revolves around a cutting-edge loyalty program, meticulously coded using the Coco language and seamlessly deployed on the MOI Blockchain.

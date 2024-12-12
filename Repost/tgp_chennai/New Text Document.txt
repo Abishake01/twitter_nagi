@@ -1,0 +1,15 @@
+Team: PixelBlitz
+X3: A decentralized programming language for onchain development with multichain support.
+
+Members:
+@NagiPragalathan
+ , 
+@prashantdp7
+ , 
+@RAVINDRANSB4
+ , 
+@manicdon7
+ , 
+@Rahulgj_10
+
+https://devfolio.co/projects/x-1a14

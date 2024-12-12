@@ -1,0 +1,8 @@
+Clone: git clone https://github.com/NagiPragalathan/Moi_Nocode_Hack.git
+Navigate: cd Frontend
+Install: npm install
+Setup Env: Create "dev.env" in "env" dir with your seed phrase.
+Run App: cd src, npm install, npm start
+Backend: cd Backend
+Install: pip install -r requirements.txt
+Clone: git clone
